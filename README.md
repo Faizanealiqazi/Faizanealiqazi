@@ -118,7 +118,7 @@ With excellent problem-solving and communication skills, I have collaborated wit
     </td>
         <td align="center" width="96">
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-color.858e7bc5d14ecee236e7d067fe052b3a.png" width="48" height="48" alt="TailwindCSS" />
-      <br>Flutter
+      <br>Tailwind CSS
     </td> 
          <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
