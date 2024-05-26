@@ -3,9 +3,9 @@
 - 🌱 I’m Currently working on Java Enterprise Level Applications.
 - I'm enrolled in the Data Science Master's Program in FAST NUCES, Karachi
 - 📫 You can reach me out at faizan.qazi@live.com or faizan.qazi1999@gmail.com
-- :heart_eyes: Love to code in Python, c++, java, Javascript.
+- :heart_eyes: Love to code in Python, C++, Java, Javascript, Angular.
 - :sunglasses: Can do attitude.
-- Skills: Spring Boot, C++, Angular, Nodejs, React, Python, Typescript, React, Node
+- Skills: Spring Boot, C++, Angular, Nodejs, React, Python, Typescript, React, Node, SQL
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/Faizan-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faizanealiqazi/)
