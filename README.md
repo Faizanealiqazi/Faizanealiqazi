@@ -2,7 +2,7 @@
 - :smirk: I’m Software Engineer.
 - 🌱 I’m Currently working on Java Enterprise Level Applications.
 - I'm enrolled in the Data Science Master's Program in FAST NUCES, Karachi
-- 📫 You can reach me out at faizan.qazi@live.com for faizan.qazi1999@gmail.com
+- 📫 You can reach me out at faizan.qazi@live.com or faizan.qazi1999@gmail.com
 - :heart_eyes: Love to code in Python, c++, java, Javascript.
 - :sunglasses: Can do attitude.
 - Skills: Spring Boot, C++, Angular, Nodejs, React, Python, Typescript, React, Node
