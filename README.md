@@ -117,7 +117,7 @@ With excellent problem-solving and communication skills, I have collaborated wit
       <br>Nginx
     </td>
         <td align="center" width="96">
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-color.858e7bc5d14ecee236e7d067fe052b3a.png" width="48" height="48" alt="TailwindCSS" />
+<img src="https://skillicons.dev/icons?i=tailwindcss" width="48" height="48" alt="TailwindCSS" />
       <br>Tailwind CSS
     </td> 
          <td align="center" width="96">
