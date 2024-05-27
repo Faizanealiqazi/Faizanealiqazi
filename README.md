@@ -10,6 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Faizan-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faizanealiqazi/)
 [![Instagram](https://img.shields.io/badge/Faizan-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/faizaneali/)
+[![Medium](https://img.shields.io/badge/Faizan-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@faizanealiqazi)
 
 
 </div>  
