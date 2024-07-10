@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @FaizanEAliQazi
-- :smirk: I’m Software Engineer.
+- :smirk: I’m a Software Engineer.
 - 🌱 I’m Currently working on Java Enterprise Level Applications.
 - I'm enrolled in the Data Science Master's Program in FAST NUCES, Karachi
 - 📫 You can reach me out at faizan.qazi@live.com or faizan.qazi1999@gmail.com
 - :heart_eyes: Love to code in Python, C++, Java, Javascript, Angular.
 - :sunglasses: Can do attitude.
-- Skills: Spring Boot, C++, Angular, Nodejs, React, Python, Typescript, React, Node, SQL
+- Skills: Spring Boot, C++, Angular, Nodejs, Python, Typescript, React, Node, SQL
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/Faizan-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faizanealiqazi/)
@@ -15,11 +15,11 @@
 
 </div>  
 <p align="justify"> 
-I am an experienced software engineer with a strong proficiency in Javascript, Python, and Java. I have a proven track record of building high-quality software applications, utilizing my expertise in various software development methodologies, such as agile and Scrum.
+I am an experienced software engineer with a strong proficiency in C++, Javascript, Python, and Java. I have a proven track record of building high-quality software applications, utilizing my expertise in various software development methodologies, such as agile and Scrum.
 
-In Python, I am skilled in developing web applications using popular frameworks such as Django and Flask. I am proficient in data analysis, machine learning, and scientific computing libraries such as NumPy and Pandas. I have experience in implementing RESTful APIs, working with databases such as MySQL and SQL, and deploying applications to cloud platforms such as AWS and Azure.
+In Python, I am skilled in developing web applications using popular frameworks such as Django and Flask. I am proficient in data analysis, machine learning, and scientific computing libraries such as NumPy and Pandas. I have experience in implementing RESTful APIs, working with databases such as MySQL and SQL.
 
-In Java, I have experience in developing enterprise-level applications utilizing Spring Boot and Hibernate. I am skilled in developing RESTful APIs, working with databases such as Oracle and SQL Server, and implementing design patterns such as Singleton, Factory, and MVC. I have also worked with front-end technologies such as JavaScript, HTML, and CSS along with frameworks like ReactJs and AngularJs. 
+In Java, I have experience in developing enterprise-level applications utilizing Spring Boot and Hibernate. I am skilled in developing RESTful APIs, working with databases such as Oracle and SQL Server, and implementing design patterns such as Singleton, Factory, Builder, and MVC. I have also worked with front-end technologies such as JavaScript, HTML, and CSS along with frameworks like React and Angular. 
 
 With excellent problem-solving and communication skills, I have collaborated with cross-functional teams to deliver high-quality software solutions to meet business requirements. I am passionate about keeping up-to-date with the latest trends and technologies in C++, Typescript, Python, and Java development, and I am committed to delivering efficient, scalable, and maintainable software applications.
 &nbsp;
