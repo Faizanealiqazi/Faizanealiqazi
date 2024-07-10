@@ -1,0 +1,31 @@
+name: Update Daily.dev Card
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-dev-card:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Daily.dev Card
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.DAILY_DEV_API_KEY }}" \
+            https://api.daily.dev/devcards/v2/MQ6UhH253vaFIe4zyVtLC.png?type=default&r=2ac \
+            --output daily-dev-card.png
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add daily-dev-card.png
+          git commit -m 'Update Daily.dev card'
+          git push
